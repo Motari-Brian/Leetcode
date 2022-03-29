@@ -1,4 +1,4 @@
-# Leetcode solutions
+# Leetcode solutions in C and Python
 
 | Problem | Link | C | Python |
 | :---------- | :-----------: | :--------: | ----: |
